@@ -161,7 +161,6 @@ nav.sectionnav a:hover, nav.sectionnav a:focus {
 article {
 	margin: 0 auto;
 	background: #ddd;
-	background: url("images/metal.jpg");
 	clear: both;
 	text-align: left;
 }
