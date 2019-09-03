@@ -42,10 +42,13 @@ p {
 	font-size: 1.3em;
 }
 a:link {
-	color: black;
+	color: blue;
+}
+a:hover {
+	color: red;
 }
 a:visited {
-	color: #888;
+	color: purple;
 }
 
 /* skip navigation link */
