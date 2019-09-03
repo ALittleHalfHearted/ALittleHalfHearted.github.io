@@ -72,6 +72,7 @@ header{
 	width: 80%;
 	float: left;
 	background-color: #959494;
+	position: fixed;
 }
 h1 {
 	text-align: center;
@@ -92,7 +93,7 @@ nav.sitenavigation {
 	color: #34180f;
 	background-color: #959494;
 	float: right;
-	position: relative;
+	position: fixed;
 }
 div.navigation-menu-button{
 	float: right;
