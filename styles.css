@@ -72,7 +72,7 @@ header{
 	width: 80%;
 	float: left;
 	background-color: #959494;
-	position: relative;
+	position: absolute;
 }
 h1 {
 	text-align: center;
